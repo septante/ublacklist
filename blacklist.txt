@@ -39,6 +39,7 @@
 *://*.civitai.com/*
 *://*.client.aigur.dev/*
 *://*.clipdrop.co/*
+*://*.codepal.ai/*
 *://*.color-anything.com/*
 *://*.craiyon.com/*
 *://*.creator.nightcafe.studio/*
